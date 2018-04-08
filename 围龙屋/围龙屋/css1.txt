@@ -1,0 +1,44 @@
+body{ border:0 auto;
+      margin:0 auto;
+      font-family:Î¢ÈíÑÅºÚ,ºÚÌå,sans-serif;
+    }
+
+   a{color:#ffffff; text-decoration:none;}
+   a:visited {text-decoration:none;}
+   a:hover {color:#f30a8e;text-decoration:none;}
+   a:active {color:#ffffff;}
+
+.table{ 
+  padding-top:200;  
+  padding-left:83;  
+  padding-right:83;
+}
+.body{
+   font-size:10pt;
+   color:grey;
+   text-align:left;
+}
+.copyright{
+   font-size:10pt;
+   color:white;
+   text-align:center;
+}
+.main{
+   background-color:black;
+   opacity: 0.8;
+}
+.title{
+   color:white;
+   font-size:72pt;
+   text-align:center;
+}
+.opacity{
+   opacity:0
+}
+.about{
+   color:white;
+   font-size:20pt;
+   text-align:center;
+
+#2a6992
+
